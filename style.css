@@ -1,0 +1,53 @@
+
+
+
+.navbar-brand img{
+    width: 100px;
+height: 50px;
+
+}
+
+.navbar{
+    background-color: #F0FFF0;
+}
+
+.i{
+    position: absolute;
+padding: 100px;
+}
+.p{
+    position: relative;
+    left: 600px;
+    padding-top: 50px;
+}
+
+.first img{
+    width: 554px;
+height: 346px;
+
+}
+
+.first{
+    background-color: #F0FFF0;
+}
+
+.card img{
+    width: 66px;
+height: 85px;
+}
+
+
+.card{
+    width: 270px;
+height: 270px;
+text-align: center;
+justify-items: center;
+margin: 20px;
+border: none;
+ border-radius: 10px;
+box-shadow: 20px 20px 20px #F0FFF0;
+}
+
+.card-img-top{
+    margin: 20px;
+}
